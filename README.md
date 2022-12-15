@@ -1,6 +1,19 @@
-[![CircleCI](https://circleci.com/gh/springframeworkguru/spring5-mvc-rest.svg?style=svg)](https://circleci.com/gh/springframeworkguru/spring5-mvc-rest)
 # Spring Framework 5 MVC Rest Application
 
-This repository is for an example application built in my Spring Framework 5 - Beginner to Guru
+Project represents API with GET, POST, PUT, PATCH, DELETE operations to Category, Customer, Vendor. 
+Multi-module project using JAXB to generate Classes from XML Schema. Documentation was generated via Swagger.
 
-You can learn about my Spring Framework 5 Online course [here.](http://courses.springframework.guru/p/spring-framework-5-begginer-to-guru/?product_id=363173)
+## Technologies implemented in this project:
+
+* Maven
+* Hibernate
+* H2 Database
+* Spring Data JPA
+* MapStruct
+* Spring MVC
+* Project Lombok
+* Swagger
+* JUnit
+* Mockito
+
+Recreated API from Swagger documentation https://api.predic8.de/shop/docs
